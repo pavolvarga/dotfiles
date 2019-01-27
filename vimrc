@@ -24,9 +24,6 @@ set ruler
 " Show incomplete commands
 set showcmd
 
-" Backup edited file
-set backup
-
 " Do not wrap up in the middle of a word
 set lbr
 
